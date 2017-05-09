@@ -12,6 +12,12 @@ sudo apt-get update
 sudo apt-get install apache2
 ```
 
+Add for sending emails with a form
+```
+sudo apt-get install php libapache2-mod-php
+apt-get install sendmail
+```
+
 Install git on your server
 ```
 sudo apt-get install git
